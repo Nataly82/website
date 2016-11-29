@@ -1,0 +1,88 @@
+<html>
+
+<body style="background-color:green;">
+
+<font color="white">
+
+<!--Nataly Castro MISC 211-01-->
+
+<title>Nataly Castro</title>
+
+<h1>Networks: Mobile Business</h1>
+
+<p>The idea of a network allows other devices to communicate important things. Also it will reduce the cost of connecting and particular networks will achieve these goals. 
+Today's business networks include a combination of local area networks, wide area networks, and metropolitan area networks. All these networks are categorized based on geographic spans. </p>
+
+<p>A <i>local area network</i> connects a group of computers in close proximity such as in an office building, school, or home. <b>LAN</b>'s allow sharing of files, printers, games, and other resources. 
+<b>WAN</b>'s are essential for carrying out the day to day activities of many companies and government organizations. A <i>wide area network</i> spans a large geographic area such as a state, province, or country.
+ A <i>metropolitan area network</i> is a large computer network, usually spanning a city. Most colleges, universites, and large companies that span a campus use an infrasturcture support by a MAN.</p>
+
+<table>
+
+<tr>
+
+<th>Bandwidth</th>
+
+<th>Bits per second</th>
+
+</tr>
+
+<tr>
+
+<td>Kilobites</td>
+
+<td>1 Kbps = 1,000 bps</td>
+
+</tr>
+
+<tr>
+
+<td>Megabites</td>
+
+<td>1 Mbps = 1,000 Kbps</td>
+
+</tr>
+
+<tr>
+
+<td>Gigabites</td>
+
+<td>1 Gbps = 1,000 Mbps</td>
+
+</tr>
+
+</table>
+
+<br></br>
+
+<img src="http://scilsng.com/wp-content/uploads/2015/07/Computer-Networking.jpg" height="400" width="600">
+
+<br></br>
+
+<div>
+
+<ul>
+
+<li>
+
+<a href="http://www.e-junkie.com/blog/The-Advantages-and-Disadvantages-of-a-Mobile-Business.htm">Advantages and Disadvantages</a>
+
+</li>
+
+</ul>
+
+<ul>
+
+<li>
+
+<a href="http://money.usnews.com/money/personal-finance/articles/2013/08/07/the-costs-and-benefits-of-running-a-mobile-business">The Costs and Benefits</a>
+
+</li>
+
+</ul>
+
+</div>
+
+</body>
+
+</html>
